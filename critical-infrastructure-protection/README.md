@@ -26,4 +26,4 @@ OPSWAT Academy
 
 I completed the OPSWAT Academy Critical Infrastructure Protection (CIP) free course.
 
-* Certificate: View Certificate(./Critical-Infrastructure-Protection.pdf)
+[View Certificate](./certificate.pdf)
