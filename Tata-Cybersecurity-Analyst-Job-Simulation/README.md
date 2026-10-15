@@ -30,5 +30,5 @@ Provider: Tata
 Platform: Forage
 Completion Date: October 15, 2026
 
-[View Certificate⁠](./certificate)
+[View Certificate⁠](./certificate.pdf)
 
